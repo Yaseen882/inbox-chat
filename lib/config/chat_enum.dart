@@ -1,0 +1,1 @@
+enum DialogState {loading, complete}

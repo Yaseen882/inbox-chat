@@ -1,0 +1,1 @@
+typedef VerificationIdCallback = void Function(String);
